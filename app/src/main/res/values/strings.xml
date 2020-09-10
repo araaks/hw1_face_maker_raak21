@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hw1_face_maker</string>
+
+    <string-array name="hair_spinner_array">
+        <item>Spiky Hair</item>
+        <item>Short Hair</item>
+        <item>Bald</item>
+    </string-array>
+</resources>
